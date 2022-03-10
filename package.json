@@ -8,6 +8,8 @@
   "files": [
     "dist"
   ],
+   "repository": "https://github.com/astralfarm/goose-uikit",
+  "license": "MIT",
   "scripts": {
     "build": "[my-framework] build --output public"
     "lint": "eslint 'src/**/*.{js,jsx,ts,tsx}'",
